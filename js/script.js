@@ -6,10 +6,10 @@ for (var i = 0; i < pets.length; i++) {
 }
 
 
-var knopf = document.getElementsByClassName("knopf")
+var knoepfe = document.getElementsByClassName("knopf")
 
-for (var i = 0; i < knopf.length; i++) {
-	knopf[i].addEventListener("click", function(){showinfo(this.getAttribute("id"))}, false);
+for (var i = 0; i < knoepfe.length; i++) {
+	knoepfe[i].addEventListener("click", function(){showinfo(this.getAttribute("id"))}, false);
 }
 
 function showinfo(i){
