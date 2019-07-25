@@ -1,0 +1,43 @@
+var pets = [{
+	"animal": "cat",
+	"name": "Schnecke",
+	"age": 13,
+	"color": "tabby",
+	"price": 22,
+	"image": "img/cat.jpg"
+}, {
+	"animal": "dog",
+	"name": "Maya",
+	"age": 12,
+	"color": "mostly white",
+	"price": 28,
+	"image": "img/dog.jpg"
+}, {
+	"animal": "ferret",
+	"name": "Freddy",
+	"age": 2,
+	"color": "grey",
+	"price": 16,
+	"image": "img/ferret.jpg"
+}, {
+	"animal": "budgie",
+	"name": "Helmut",
+	"age": 5,
+	"color": "blue",
+	"price": 4,
+	"image": "img/bird.jpg"
+}, {
+	"animal": "guinea pig",
+	"name": "Valentin",
+	"age": 7,
+	"color": "brown with white spots",
+	"price": 11,
+	"image": "img/guinea.jpg"
+}, {
+	"animal": "phoenix",
+	"name": "Nether Flame",
+	"age": 314,
+	"color": "green",
+	"price": 1572483,
+	"image": "img/phoenix.jpg"
+}]
